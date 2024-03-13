@@ -1,2 +1,2 @@
 # ASU-226-Leetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of Leetcode problems I have solved in 2024
